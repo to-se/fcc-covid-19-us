@@ -10,7 +10,7 @@ function usStats(data) {
     recovered: format.number(usStatRaw.recovered),
     ventilator: format.number(usStatRaw.onVentilatorCurrently),
     hospitalized: format.number(usStatRaw.hospitalized),
-    isu: format.number(usStatRaw.inIcuCurrently),
+    icu: format.number(usStatRaw.inIcuCurrently),
     tested: format.number(usStatRaw.totalTestResults),
     updated: moment(usStatRaw.lastModified).format("DD.MM.YYYY HH:mm:ss"),
   };
