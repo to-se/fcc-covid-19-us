@@ -1,6 +1,7 @@
 Learn the Svelte JavaScript Framework - Full Course
 https://www.youtube.com/watch?v=ujbE0mzX-CU&t=4005s
 https://covidtracking.com/api/v1/us/current.json
+https://github.com/phptuts/fcc-covid-19-us
 
 # sapper-template
 
